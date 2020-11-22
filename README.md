@@ -1,4 +1,4 @@
-### Hi there 👋, Marc Heltzel
+### Hi there, I am Marc Heltzel
 #### Junior-plus webdeveloper
 My name is Marc Heltzel. I live in Eindhoven (the Netherlands) . I love webdevelopment. And I love to expand my knowledge.
 
