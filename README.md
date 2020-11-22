@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/Heltzel/Heltzel/blob/main/LinkdIn.png)
 
 # Marc Heltzel
----
+
 ## Junior-plus webdeveloper
 My name is Marc Heltzel. I live in Eindhoven (the Netherlands) . I love webdevelopment. And I love to expand my knowledge.
 ---
