@@ -1,8 +1,8 @@
 ### Hi there 👋, Marc Heltzel
 #### Junior-plus webdeveloper
-My name is Marc Heltzel. I live in Eindhhoven (the Netherlands) . I love webdevelopment. And I love to expand my knowledge.
+My name is Marc Heltzel. I live in Eindhoven (the Netherlands) . I love webdevelopment. And I love to expand my knowledge.
 
-Skills: LARAVEL/VUE JS / REACT / JS / HTML / CSS
+Skills: LARAVEL / VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Learning React and Framer -Motion 
 - 🌱 I’m currently learning  React and Framer -Motion 
