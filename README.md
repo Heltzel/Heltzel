@@ -1,6 +1,5 @@
 ### Here is what i'm working on 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Learning new technologies
 - 🌱 I’m currently learning ... React Framer-Motion
