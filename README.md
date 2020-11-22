@@ -1,8 +1,8 @@
 ### Here is what i'm working on 👋
 
 
-- 🔭 I’m currently working on ...Learning new technologies
-- 🌱 I’m currently learning ... React Framer-Motion
+- 🔭 I’m currently working on ... Learning new technologies
+- 🌱 I’m currently learning ... React and Framer-Motion
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
