@@ -9,8 +9,8 @@ I love webdevelopment. And I love to expand my knowledge.
 
 Skills: LARAVEL / VUE JS / REACT / JS / HTML / CSS 
 
-- 🔭 I’m currently working on Learning React and Socket.io
-- 🌱 I’m currently learning  React and Socket.io
+- 🔭 I’m currently working on Learning Cakephp
+- 🌱 I’m currently learning  Cakephp
 - 📫 How to reach me: [My Personal Website](http://heltson.com/) 
 
 ***
